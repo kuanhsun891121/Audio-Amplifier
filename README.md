@@ -11,7 +11,7 @@ An integrated high-performance audio amplifier system designed with TDA1519C, in
 - **Up to 20 hours of usage time**, supports **continuous music play for 8 hours**
 - Widely used in **classrooms, dance clubs, street performances, street dancing, election campaigns, religious gatherings, market vendors**, and more
 - Suitable for **audiences of over 100 people**
-- Successfully commercialized with **15,000+ units sold in Taiwan**
+- Successfully commercialized with **20,000+ units sold in Taiwan**
 
 - ## ⚙️ Technical Features
 | Feature               | Description                                          |
